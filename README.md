@@ -113,3 +113,12 @@ Enlace de descarga:https://www.jetbrains.com/es-es/idea/download/#section=window
 
 ![image](https://user-images.githubusercontent.com/79162870/180920145-c6ba14cf-267b-4c48-966c-aea909294f64.png)
 
+5 Configuracion del ambiente de prueba.
+
+![image](https://user-images.githubusercontent.com/79162870/180923145-16696dab-d5b2-472f-b18d-3529e0690813.png)
+
+5.2 Ocuparemos estas dependensias de Junit para java. Estas dependencias se colocan en el "pom.xml".
+
+![image](https://user-images.githubusercontent.com/79162870/180923643-cff55dfb-df4a-476e-af1c-00217f9b7a19.png)
+
+6 Ya con esto pueden empezar a realizar pruebas.
