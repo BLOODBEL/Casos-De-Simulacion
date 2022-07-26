@@ -5,7 +5,8 @@ Pasos.
 1.1	Ingresar a Oracle para la descarga del jdk.
 Enlace de descarga: https://www.oracle.com/java/technologies/downloads/#jdk18-windows
 1.1.1	Antes de empezar la descarga, la página de Oracle te pedirá que inicies sección, si no posees una cuenta tendrás que crear una, si ya posees una nada más tendrás que iniciar sección. 
-![image](https://user-images.githubusercontent.com/79162870/180918037-3d8ee443-715b-4500-893e-b3c48c712670.png)
+![image](https://user-images.githubusercontent.com/79162870/180918179-dee1c67a-3075-4449-81ce-20789da9f62b.png)
+
 
  
 1.1.2	Después de ingresar a la página, descargar el archivo con el nombre 
